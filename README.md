@@ -31,3 +31,6 @@
 
 - Korean (native), English (IELTS R/L : 7.0/7.0)
 
+💻 baekjoon
+
+- https://www.acmicpc.net/user/seoyeon4685
